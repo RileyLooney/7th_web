@@ -15,8 +15,4 @@ export default Sidebar;
 const SidebarStyle = styled.div`
     background-color: violet;
     width: 200px;
-
-    Link{
-      display: block;
-    }
 `
